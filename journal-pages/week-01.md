@@ -8,7 +8,25 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+Week 01 Experiment 1: Data Drawings 
+
+In class process: Create Data Portrait from a variety of visual representations of the data extracted within your group throughout class. Group members: Amy, Nahlah, Ori, June, Erica. 
+
+Out of class process: Count the number of songs I listen to and how they make me feel throughout the period of 5 days starting Saturday 7/03/2026 
+
+I decided upon this because I listen to a lot of music, and as such thought it would be an interesting thing to track and then later try to visualise. 
+
+I collected the song counts and emotions over the course of the 5 days, and these are the results:
+![Alt text](../assets/week-01/Data Portrait Data.jpg)
+
+The results show:
+Day 1: 12 songs, with a dominant melancholy/sad mood
+Day 2: 4 songs, with a majority of the songs being acoustic 
+Day 3: 8 songs, with a mixture of energetic songs from my playlist called "pregame" (I was not pregaming I just wanted to listen to something high energy.)
+Day 4: 16 songs, with a mixture of different genre and moods, majority being electronic repetitive subgenres like trance, deep house and psytrance.
+Day 5: 4 songs, 
+
+I tended to have some songs on loop while working, studying or working out, so these songs/genre are represented by larger circles. 
 
 ## Images & Media
 
