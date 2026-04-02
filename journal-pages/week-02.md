@@ -8,7 +8,18 @@ layout: default
 
 ## Documentation 
 
+### In Class Activity: Making an interactive sketch
+The first part of the in-class activity required me to practice using p5.js to practice making simple shapes. 
+
+
+### Out of Class Activity: Making an interactive Data Portrait
+
+
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+
+
+<iframe src="https://editor.p5js.org/orob312/full/ZS3ujVPdo"></iframe>">
+
 
 ## Images & Media
 
