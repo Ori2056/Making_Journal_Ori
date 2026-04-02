@@ -50,12 +50,12 @@ I was greatly unsuccessful.
 
 I was honestly really struggling at this point, and didn't know what to do, so I went back to chatGPT to try see if it would help me do it. After much tweaking like asking the AI to turn the flowers into the spirals, removing the spiral at the center, changing the colours of the flowers and making them follow the cursor, I ended up with this result:
 
-<iframe src="https://editor.p5js.org/orob312/full/ZS3ujVPdo"width="400" height="400"> </iframe> 
+<iframe src="https://editor.p5js.org/orob312/full/ZS3ujVPdo" width="400" height="400"> </iframe> 
 
 I was happy with this result, and it gave me a good idea of what I wanted to achieve with my data portrait. SOOOOOOO I went back to chatGPT, and asked it to create a data portrait in a similar fashion, but with the data I had gathered from my 5 days of recording the music I listened to.
 
 This was the first result:
-<iframe src="https://editor.p5js.org/orob312/full/GwIgkCqe5"width="400" height="400"></iframe>
+<iframe src="https://editor.p5js.org/orob312/full/GwIgkCqe5" width="400" height="400"></iframe>
 
 I used the following text as a prompt:
 
@@ -71,7 +71,7 @@ It was lacking the proper representation of the icons related to the +/- symbols
 
 "please make them move at different speeds, with energetic and electronic being the fastest, while sensual and acoustic are slower. However all of them should be different speeds. Please also include a representative icon next to each toggle"
 
-<iframe src="https://editor.p5js.org/orob312/full/LpG20bsra"width="400" height="400"></iframe>
+<iframe src="https://editor.p5js.org/orob312/full/LpG20bsra" width="400" height="400"></iframe>
 
 Finally, I was satisfied with this result. It had all the parts I wanted, with varying speeds, a toggle on the number of data points, and clear distinction between the types of music I listened to over the week. It made me think of the ephemerality of music and time, and how honestly I remember listening to certain music, but not really when I did it unless something important was happening at the same time. I think this prompts me to be more conscious of my consumption of media in the future, thinking about how I can make sure I am aware of my content consumption in my day to day life.
 
