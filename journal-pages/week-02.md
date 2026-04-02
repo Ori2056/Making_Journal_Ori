@@ -17,8 +17,7 @@ The first part of the in-class activity required me to practice using p5.js to p
 
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
-
-<iframe src="https://editor.p5js.org/orob312/full/ZS3ujVPdo"></iframe>">
+<iframe src="https://editor.p5js.org/orob312/full/ZS3ujVPdo" width="400" height="400"></iframe>
 
 
 ## Images & Media
