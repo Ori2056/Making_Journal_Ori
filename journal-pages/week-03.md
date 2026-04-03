@@ -7,7 +7,8 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Documentation 
- ### In class Work
+
+### In class Work
 
 Activity 1: Exploring with cURL
 
@@ -41,11 +42,9 @@ Me and my group created a data protocol to measure the amount of "buffer words" 
 
 I decided I wanted to visualise the streams of my favourite arist. I could not find a suitable API that I could access for free. I tried lastFM for scrobbles (how they measure the amount of streams across multiple platforms) but found they required a submission form. 
 
-I used free APIs to find an interesting API, and came upon the jellybellywiki API. This details the nutritional information and flavour of every Jelly Belly jelly beans, as well as whether they are season, gluten free, sugar free, or kosher. 
+I found an API documenting the movement, positioning and other various information regarding asteroids in orbit of Earth currently. The data updates every 7 days. Unfortunately this data was not translatable or workable, and I spent the next 8 hours straight trying to find a workable API, couldn't, and gave up. the end.
 
-I used the API request URL for up to 114 counts of jelly beans to retrieve all the accessible flavours in one page.
 
-https://jellybellywikiapi.onrender.com/api/Beans?pageIndex=1&pageSize=100
 
 
 
