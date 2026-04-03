@@ -43,22 +43,3 @@ Me and my group created a data protocol to measure the amount of "buffer words" 
 I decided I wanted to visualise the streams of my favourite arist. I could not find a suitable API that I could access for free. I tried lastFM for scrobbles (how they measure the amount of streams across multiple platforms) but found they required a submission form. 
 
 I found an API documenting the movement, positioning and other various information regarding asteroids in orbit of Earth currently. The data updates every 7 days. Unfortunately this data was not translatable or workable, and I spent the next 8 hours straight trying to find a workable API, couldn't, and gave up. the end.
-
-
-
-
-
-
-
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
