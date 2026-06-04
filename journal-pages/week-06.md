@@ -32,19 +32,20 @@ This image represents the sort of flow and dynamic I would like for my design to
 I am drawn to this design for its ability to summarise large quantities of information with good accuracy and efficiency. The Instagram Meta AI chat summary feature is also quite similar to my project goals, and I believe is a pretty good indicator of the full potential functionality of my design, with an extended description feature as well as a smaller summary of missed chats. I think this will relatively inform my future design, but don't want to have an overreliance on the preexisting functionality aspect as then I will be losing originality in my design. As such I will make sure to consistently check that my design still feels unique and original as I make it.
 
 ![alt text](image-6.png)
-Clippy is interesting in the way that it feels like a very humanised character which informs the methods of user interaction with it. I am drawn to the simple design which seemingly pops off the page and exists on another level than the 
+Clippy is interesting in the way that it feels like a very humanised character which informs the methods of user interaction with it. I am drawn to the simple design which seemingly pops off the page and exists on another level than the existing apps and documents onscreen. I think this informs my research by making sure my prototype, if it presents itself as a virtual asssitant, should not be too humanised. As much as it is cute and charming, I think that developing an unnecessary connection to the program might be bad overall for the user experience, similar to the concept of AI psychosis where a user interprets AI as a conscious being.
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+### Project Planning and Skills Roadmap
 
-## Images & Media
+![alt text](image-7.png)
+This image depicts a rough sketch of the program in action. I have taken a screenshot from the discord chat of my friendgroup, and incorporated the chat analysis bot so that it's position within the texting framework would be comprehensible.
 
-*Use the format below to embed images from your assets folder:*
+Priority development list:
+1. Developing a working prototype using chrome extension format (use vibe coding)
+2. Create a list of working ideas for the program to draw reference from when responding to user input
+3. Do user testing
+4. Developing a working prototype using app format
+5. Develop a visual style for the app
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+My next steps are to use ChatGPT for vibe coding so that I can have a working prototype. Currently I am considering using the chrome extension format where I will get ChatGPT to generate files for me to compile into a folder and then export into the extensions in chrome so that I can locally access the program from my chrome browser. I will try to limit myself to 3 iterations in this manner so that I don't tunnel vision too much into this concept, as I will need to spare time to be able to later work on an app format which will be harder to execute. As I am considering using OCR in my app program as well, I need to consider if there are any open source codes I can use to supplement this idea, or if I need to vibe-code from scratch. Either way, there is a lot of work to be done.
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
-## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
