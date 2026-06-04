@@ -23,10 +23,15 @@ This week, I hope to finish developing the app according to the increased functi
 
 I asked ChatGPT to generate a series of developments according to these prompts:
 
+![alt text](image-20.png)
 
+![alt text](image-21.png)
 
-![alt text](image-19.png)
+The result from these developments is as such:
 
+![alt text](image-22.png)
+
+Note that I am still unable to use electron to run the app for SOME REASON and as such am currently running it from the browser.
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*
