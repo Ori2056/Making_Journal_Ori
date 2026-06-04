@@ -34,6 +34,10 @@ However, despite producing a result, the code wasn't able to function properly (
 
 In my friend group I asked for some advice on how I could further develop my concept into different potential directions. The idea that stuck out to me the most was to create a chat bot that would exist as part of the groupchat as visible to all users, therefore eliminating the need for written consent. This would also include the functionality of being able to hide the bot, and create constraints around which users' data it did and did not utilise. Visually, this would look pretty much exactly the same as the sketches I have made prreviously, except that all chat users would be able to see it. 
 
+### Independant study
+
+I created a slideshow for class that would display the project to my group. I also used DuoLingo as a primary visual reference in this, as I felt it communicated the ideas I had in my previous visual references with more condensed and direct usage of tools and interface.
+
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
 ## Images & Media
