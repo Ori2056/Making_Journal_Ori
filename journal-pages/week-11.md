@@ -31,16 +31,18 @@ The result from these developments is as such:
 
 ![alt text](image-22.png)
 
-Note that I am still unable to use electron to run the app for SOME REASON and as such am currently running it from the browser.
-## Images & Media
+![alt text](image-23.png)
 
-*Use the format below to embed images from your assets folder:*
+There is a glaring error with the size of the text input box, so I will ask for this to be changed when I have more text credits from ChatGPT :'(. I will also be fixing the response to secondary signals provided by the text response, as the stress (0%) does not properly correlate to the response text provided by the program. 
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+I will also be subsequently further refining the app to be more aligned to the original intentions (i.e. treating the input as not from the app user but another person in the text conversation). This will involve also an option for the user to select from a positive, neutral or negative box so as to generate a related response to the text that the user can use to inform their response in the real time text conversation. 
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+**Note that I am still unable to use electron to run the app for SOME REASON and as such am currently running it from the browser.
+
+### Reflection for the week
+
+I was not able to properly execute the app function as per my original intentions, but along the way found that maybe a less automated approach which relies on the manual and conscientious input from the user may lead to the user being less totally reliant on the app's function, and subsequently hopefully learning to predict conversational patterns. I think this is the preferred outcome as this will be more positively influential to the user in their online experience than having an app that could potentially reduce their critical thinking skills with overreliance.
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+I used ChatGPT to create the app, as well as troubleshoot any errors I encountered along the way.
