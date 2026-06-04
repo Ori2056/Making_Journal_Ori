@@ -8,7 +8,11 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+I was sick again this week, and didn't make it to class for the in-class activities :(
+
+### Out of Class work
+
+![alt text](image-19.png)
 
 ## Images & Media
 
