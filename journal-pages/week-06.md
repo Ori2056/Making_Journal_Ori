@@ -31,7 +31,8 @@ This image represents the sort of flow and dynamic I would like for my design to
 ![alt text](image-5.png)
 I am drawn to this design for its ability to summarise large quantities of information with good accuracy and efficiency. The Instagram Meta AI chat summary feature is also quite similar to my project goals, and I believe is a pretty good indicator of the full potential functionality of my design, with an extended description feature as well as a smaller summary of missed chats. I think this will relatively inform my future design, but don't want to have an overreliance on the preexisting functionality aspect as then I will be losing originality in my design. As such I will make sure to consistently check that my design still feels unique and original as I make it.
 
-
+![alt text](image-6.png)
+Clippy is interesting in the way that it feels like a very humanised character which informs the methods of user interaction with it. I am drawn to the simple design which seemingly pops off the page and exists on another level than the 
 
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
