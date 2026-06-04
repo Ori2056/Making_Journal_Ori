@@ -35,12 +35,14 @@ Per ChatGPT's instructions, I compiled the code into a folder.
 
 I was running into issues after this relating to being able to run the npm install function
 
-This was entirely my fault. I had forgotten to include onedrive in the path, resulting in a series of errors. Once I had fixed it and continued following ChatGPT's instructions to run the app, this happened:
+This was entirely my fault. I had forgotten to include Onedrive in the path, resulting in a series of errors. Once I had fixed it and continued following ChatGPT's instructions to run the app, this happened:
 
- ![alt text](image-17.png)
+![alt text](image-18.png)
 
- 
+As per ChatGPT, this was the result of Onedrive not being able to support the application's running. As such, I decided to try again but from a copy of the file from my downloads folder.
+
+After troubleshooting, the app opened, but required text input to be able to work properly. So this app now works relying on manual input rather than being automated data collection. I will develop this further next week.
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+I used ChatGPT to create the app, as well as troubleshoot any errors I encountered along the way.
