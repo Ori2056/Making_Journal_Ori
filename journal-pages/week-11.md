@@ -39,9 +39,11 @@ I will also be subsequently further refining the app to be more aligned to the o
 
 **Note that I am still unable to use electron to run the app for SOME REASON and as such am currently running it from the browser.
 
+After more battles, trying to get electron to properly install the path and other files that it was missing out for some reason, I got to the point of development where Ollama is situated within the code to be able to generate a response, but is struggling to connect to Ollama. I do not have any more ChatGPT credits, and therefore cannot ask for any more code refinements. I unfortunately as such will have to revert to a previous model which does not use Ollama for the response portion.
+
 ### Reflection for the week
 
-I was not able to properly execute the app function as per my original intentions, but along the way found that maybe a less automated approach which relies on the manual and conscientious input from the user may lead to the user being less totally reliant on the app's function, and subsequently hopefully learning to predict conversational patterns. I think this is the preferred outcome as this will be more positively influential to the user in their online experience than having an app that could potentially reduce their critical thinking skills with overreliance.
+I was not able to properly execute the app function as per my original intentions, but along the way found that maybe a less automated approach which relies on the manual and conscientious input from the user may lead to the user being less totally reliant on the app's function, and subsequently hopefully learning to predict conversational patterns. I think this is the preferred outcome as this will be more positively influential to the user in their online experience than having an app that could potentially reduce their critical thinking skills with overreliance. I do wish that I had more time to bugfix and integrate Ollama into my program in a way that works.
 
 ## AI Usage Statement
 
